@@ -1,0 +1,46 @@
+.text-position{
+    text-align:center;
+
+}
+a{
+    color: rgb(255, 255, 255);
+}
+h1{
+    color:#a62f22
+}
+body{
+    background-image: url(https://turktoyu.com/storage/2022/09/kil-c%CC%A7adir.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.position-color{
+    position:relative;
+    right:5px;
+    top:3px;
+    color:rgba(234, 245, 240, 0.966);
+    font-size:large;
+}
+
+
+.color-pst{
+    right:1000px;
+    top:9px;
+    color:#22A699;
+}
+
+.link-container {
+    display: inline-block;
+    margin: 10px;
+}
+
+.main-container {
+    text-align: center;
+    max-width: 400px; /* Sayfanın sağdan ve soldan merkezde olmasını sağlayan genişlik */
+    margin: 0 auto;
+    font-size:medium;
+}
+/* margin: 10px;
+margin: 0 auto; */
